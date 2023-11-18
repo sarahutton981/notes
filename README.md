@@ -12,3 +12,6 @@ Let's GO
 
 In addition to learning new skills, don't be afraid to ask for help or collaborate with others. Programming can be a solitary task, but working with a team can lead to more innovative solutions and a better understanding of different approaches. When faced with challenges, try to approach the problem from different angles and don t be scared to experiment with new solutions. Practice good programming practices, like writing modular, well-documented code, and using version control systems like Git. These practices will not only make your code more maintainable but also make it easier to work on projects with other developers. 
  最重要的是，保持耐心和毅力。学习编程可能会很困难，但通过不断实践和努力，你会逐渐掌握各种技能。记住，成为一名成功的程序员需要时间和努力。所以，今天的学习智慧是：保持学习，与他人合作，实践良好的编程实践，并保持耐心。
+
+# 2023-11-18
+- "Keep it simple, stupid!"
