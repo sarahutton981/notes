@@ -15,3 +15,8 @@ In addition to learning new skills, don't be afraid to ask for help or collabora
 
 # 2023-11-18
 - "Keep it simple, stupid!"
+
+# 2023-11-19
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook 
+
+This quote highlights the ongoing challenge that programmers face in creating software that is user-friendly and resilient to mistakes, while also acknowledging the seemingly endless capacity for users to find new ways to break or misuse it. It serves as a reminder to always consider the end-user in the design and development process, and to be prepared for unexpected behaviors or inputs.
