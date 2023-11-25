@@ -41,3 +41,9 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 First, prioritize your tasks. When you are working on a project, it is essential to determine which tasks are most important and which can be completed later. By prioritizing your work, you can ensure that you focus on the most critical aspects of the project and avoid getting sidetracked. Use a task management tool, such as Trello or Asana, to help keep track of your priorities and progress. 
  -
 Next, planning ahead is crucial. Before beginning a new project or task, take the time to plan out your approach. Write down a list of steps that will need to happen in order to complete the task or project. Then, break down each step into smaller, manageable tasks and assign a deadline to each one. Planning ahead will ensure you have a clear roadmap for success and can avoid being overwhelmed by the complexity of a problem.
+
+# 2023-11-25
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, frameworks, and tools, as well as understanding the principles of software development and design. By constantly learning and improving your skills, you will become a more valuable asset to your team or organization.
+
+Remember that programming is a collaborative effort, so be sure to communicate effectively with your teammates. Learn to listen to their ideas and feedback, but also be willing to share your knowledge and experience. Through this collaboration, your teams will be able to develop better solutions and create more innovative products. 
+ - 来自NLP
