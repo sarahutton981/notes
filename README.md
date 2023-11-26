@@ -47,3 +47,6 @@ Next, planning ahead is crucial. Before beginning a new project or task, take th
 
 Remember that programming is a collaborative effort, so be sure to communicate effectively with your teammates. Learn to listen to their ideas and feedback, but also be willing to share your knowledge and experience. Through this collaboration, your teams will be able to develop better solutions and create more innovative products. 
  - 来自NLP
+
+# 2023-11-26
+- "Keep it simple, stupid!"
