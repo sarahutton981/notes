@@ -67,3 +67,8 @@ This quote highlights the importance of designing user-friendly and intuitive so
 6. Participate in open source projects and contribute to them. It will not only improve the quality of the codebase but also help in learning new skills and getting exposure to different coding styles.     
 7. Attend coding workshops, meetups, conferences, online courses, tutorials, blogs, forums, to stay updated with latest trends and techniques in the industry.      
 8. Always be ready to learn and adapt new things. The world of programming is constantly evolving, so it' s essential to embrace change and keep learning.
+
+# 2023-11-29
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By constantly updating your knowledge and skills, you can become a well-rounded and valuable asset to any team or project.
+
+Another important aspect of programming wise is problem-solving. When faced with a challenging problem, take a step back, break it down into smaller, more manageable tasks, then use critical thinking and creativity to come up with solutions. Practice debugging and refactoring code, which can help you identify and fix errors more efficiently. Finally, never be afraid to ask for help or advice from others, whether it' s a colleague, friend, or online community. Remember, everyone started somewhere, so there' is always someone willing to lend a hand or share their knowledge.
