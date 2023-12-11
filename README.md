@@ -116,3 +116,6 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2023-12-10
 - Today's programming wisdom is to prioritize writing readable and maintainable code over clever or complex code. It's important to remember that code is read far more often than it's written, so taking the time to make it easy to understand for others (and your future self) will save time and headaches in the long run. This includes using clear variable names, commenting your code effectively, and breaking complex tasks into smaller, more manageable functions. Additionally, it's important to embrace best practices and coding standards of the language you're working with, as this can help ensure your code is consistent and adheres to established conventions.
+
+# 2023-12-11
+- "Keep it simple, stupid!"
