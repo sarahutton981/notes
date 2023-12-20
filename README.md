@@ -145,3 +145,10 @@ Another piece of wisdom involves writing clean and modular code. Following codin
 
 # 2023-12-19
 - Today's programming wisdom is to prioritize readability and maintainability in your code. Writing clean, well-structured code that is easy to understand and modify will save time and effort in the long run, making it easier for you and others to work with your codebase. Remember that code is read far more often than it is written, so invest time in making it clear and concise. Additionally, use comments and documentation sparingly but effectively to explain complex logic or non-obvious design decisions. By prioritizing readability and maintainability, you'll create code that is not only functional but also scalable, flexible, and resilient to change.
+
+# 2023-12-20
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project first, which will allow youto finish it more quickly and efficiently. 
+ 2. Plan ahead: Planning is crucial when it comes to programming. You should always have a clear idea of what you want to achieve and how you plan to do it. Creating a plan willhelp you stay focused and prevent you from getting lost in the code. It will also make it easier for you and other team members to understand your intentions and contribute to theproject.  
+3. Stay organized: As a programmer, maintaining a clean and organized codebase is vital. Organizingyour code will make your life easier, as you will be able to find and fix errors more efficiently, add new features,and maintain your code over time. Additionally, using version control systems, such as Git, will enable you tounderstand the changes made to yourcode and collaborate with others more effectively.
