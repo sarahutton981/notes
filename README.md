@@ -189,3 +189,8 @@ In essence, this reminds us that while it's important to solve problems efficien
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them accordingly. 
  其次，提前计划。在开始编程之前，确保你了解项目的需求和目标。这将帮助你在编写代码时避免不必要的错误和更改。使用版本控制系统（如Git）可以帮助你跟踪代码的更改，以便在需要时轻松回滚到之前的版本。
  最后，保持组织。一个整洁、有组织的代码库可以提高你的工作效率，减少错误，并使团队协作变得更加容易。遵循编码规范和风格指南，使用有意义的命名约定，以及将代码分解为可重用的函数和模块，都有助于保持代码的组织。 总之，通过优先处理任务、提前计划和保持有组织，你可以成为一名更有效的程序员，并在编程任务中取得更大的成功。
+
+# 2023-12-28
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, determine which tasks are most important and which can be completed later. Then, break down each task into smaller, manageable steps. By organizing your code and your workflow, you will be able to better understand what you are doing and make more informed decisions.
+
+Remember to take breaks and avoid multitasking, as it can lead to decreased focus and more errors. Use version control, like Git, to keep track of your changes and collaborate with others. And finally, always be learning and staying up-to-date with the latest programming trends and technologies. With these tips, your coding skills will continue to grow and improve.
