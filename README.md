@@ -301,3 +301,8 @@ Second, planning ahead is essential for staying organized and avoiding last-minu
 
 Second, always plan beforehand. When starting a new project, create a detailed plan that outlines the steps you need to take to complete it. Include deadlines for each step and make sure to stay on track. Planning ahead will prevent you from getting lost in the project and help ensure a successful outcome. 
  3. Finally, stay organised. Use project management tools and software to keep track of your task list, deadlines, team communication, etc. Organizing and managing your projects well will save you time and frustration in both the short and long term.
+
+# 2024-01-23
+- Today's programming wisdom: "Premature optimization is the root of all evil" - Sir Tony Hoare. 
+
+This quote emphasizes that over-concern with efficiency early in the development process can lead to complex, hard-to-maintain code and might not actually solve performance issues effectively. Instead, focus on writing clear, correct, and maintainable code first. Optimize only when necessary, based on measured performance data, rather than speculative assumptions. Remember, simplicity and clarity enhance robustness and evolvability, which are often more valuable attributes for long-term software success.
