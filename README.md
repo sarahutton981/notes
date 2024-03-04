@@ -470,3 +470,9 @@ To become a proficient programmer, it is essential to practice regularly and acq
 
 # 2024-03-03
 - "Keep it simple, stupid!"
+
+# 2024-03-04
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress towards your goals.
+
+Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, so that it is easier to stay focused and make progress. Also, consider potential roadblocks and challenges that may arise, such as technical difficulties or resource constraints. Planning for these issues ahead of time can help prevent them from derailing your project. 
+ - 来自NLP
